@@ -1,0 +1,136 @@
+@media only screen and (min-width : 768px) {
+.alan{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    width: Hug (1,280px)px;
+    height: Hug (440px)px;
+    top: 1559px;
+    padding: 100px 0px 100px 0px;
+    gap: 10px;
+    opacity: 0px;
+
+}
+.yazialani{
+    width: 1080px;
+    height: 240px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.yazi{
+    display: inline;
+    text-transform: uppercase;
+    background: rgba(87, 111, 53, 1);
+    border-radius: 5px 5px 5px 5px;
+    font-size: 76px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    color: rgba(251, 251, 251, 1);
+    
+}
+.yazi1{
+    display: inline;
+    text-transform: uppercase;
+    font-family: Inter Tight;
+    font-size: 76px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -0.015em;
+    text-align: left;
+}
+}
+@media only screen and (max-width : 768px) {
+
+                .yazialani {
+                          width: Hug (768px)px;
+                          height: Hug (488px)px;
+                          top: 2563px;
+                          padding: 100px 16px 100px 16px;
+                          gap: 10px;
+                          opacity: 0px;
+
+
+                }
+                .alan{
+                    display: flex;
+                    justify-content: center;
+                    width: 736px;
+                    height: 288px;
+                    gap: 0px;
+                    opacity: 0px;
+                }
+                .yazi1{
+                    display: inline;
+                    text-transform: uppercase;
+                    font-family: Inter Tight;
+                    font-size: 76px;
+                    font-weight: 600;
+                    line-height: 80px;
+                    letter-spacing: -0.015em;
+                    text-align: left;
+                }
+                .yazi{
+                    display: inline;
+                    text-transform: uppercase;
+                    background: rgba(87, 111, 53, 1);
+                    border-radius: 5px 5px 5px 5px;
+                    font-size: 76px;
+                    font-weight: 600;
+                    line-height: 80px;
+                    letter-spacing: -0.015em;
+                    text-align: left;
+                    color: rgba(251, 251, 251, 1);
+                    
+                }
+
+}
+@media only screen and (max-width : 375px) {
+
+    .yazialani {
+            background-color: rgb(12, 98, 70);
+        width: Hug (375px)px;
+        height: Hug (469px)px;
+        top: 1996px;
+        padding: 80px 10px 80px 10px;
+        gap: 10px;
+        opacity: 0px;
+        
+
+    }
+    .alan{
+        display: flex;
+        justify-content: center;
+        width: 355px;
+        height: 309px;
+        gap: 0px;
+        opacity: 0px;        
+    }
+    .yazi1{
+        display: inline;
+        text-transform: uppercase;
+        font-family: Inter Tight;
+        font-size: 76px;
+        font-weight: 600;
+        line-height: 80px;
+        letter-spacing: -0.015em;
+        text-align: left;
+    }
+    .yazi{
+        display: inline;
+        text-transform: uppercase;
+        background: rgba(87, 111, 53, 1);
+        border-radius: 5px 5px 5px 5px;
+        font-size: 76px;
+        font-weight: 600;
+        line-height: 80px;
+        letter-spacing: -0.015em;
+        text-align: left;
+        color: rgba(251, 251, 251, 1);
+        
+    }
+
+}
